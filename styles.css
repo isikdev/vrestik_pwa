@@ -1,0 +1,4 @@
+/* Скрываем элемент для скачивания приложения */
+.download-app {
+    display: none !important;
+}
